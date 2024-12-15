@@ -15,14 +15,4 @@ To use this crawler, follow the instructions below:
 2. Install the required dependencies.
 3. Run the crawler script.
 
-## Example
-
-```python
-# Example usage
-from crawler import get_youngest_billionaires, get_american_citizenship_count, get_top_philanthropic_scores
-
-print(get_youngest_billionaires())
-print(get_american_citizenship_count())
-print(get_top_philanthropic_scores())
-```
 
