@@ -1,0 +1,131 @@
+Philanthropy Count by Source:
+========================================
+Real estate: 8
+Hedge funds: 7
+Walmart: 5
+Shipping: 5
+Google: 5
+Mining: 4
+Diversified: 4
+Software: 3
+Semiconductors: 3
+Private equity: 3
+Luxury goods: 3
+Koch Inc.: 3
+Facebook: 3
+E-commerce: 3
+Chick-fil-A: 3
+Vaccines: 2
+Supermarkets: 2
+Steel: 2
+Software services: 2
+Retail: 2
+Online games: 2
+Oil & gas: 2
+Oil: 2
+Microsoft: 2
+Media: 2
+Investments: 2
+Infrastructure, commodities: 2
+Fidelity: 2
+Fashion retail: 2
+Computer hardware: 2
+Coal: 2
+Chanel: 2
+Candy, pet food: 2
+Beer: 2
+Banking, tobacco: 2
+Banking: 2
+Automobiles: 2
+Auto parts: 2
+Amazon: 2
+Zara: 1
+WhatsApp: 1
+Warehouse automation: 1
+Venture capital: 1
+Vacuums: 1
+Trading, investments: 1
+TikTok: 1
+Tesla, SpaceX: 1
+Telecom, Investments: 1
+Telecom: 1
+Steel, transport: 1
+Steel, telecom, investments: 1
+Steel, investments: 1
+Sports, real estate: 1
+Soft drinks, fast food: 1
+Smartphones: 1
+Sensors: 1
+Security software: 1
+Samsung: 1
+Rocket Mortgage: 1
+Retail, media: 1
+Retail, investments: 1
+Red Bull: 1
+Real estate, shipping: 1
+Real estate, construction: 1
+Pig breeding: 1
+Pharmaceuticals: 1
+Petrochemicals, energy: 1
+Palm oil, shipping, property: 1
+Paints: 1
+Package delivery: 1
+Oracle: 1
+Online retail: 1
+Oil, gas: 1
+Oil, banking, telecom: 1
+Oil & gas, banking: 1
+Nutella, chocolates: 1
+Nike: 1
+Newspapers, TV network: 1
+Music, chemicals: 1
+Microsoft, investments: 1
+Metals: 1
+Messaging app: 1
+Medical devices: 1
+Manufacturing, New England Patriots: 1
+LVMH: 1
+L'Oréal: 1
+Hospitals: 1
+Home improvement stores: 1
+Home appliances: 1
+Hermes: 1
+Heineken: 1
+Hardware stores: 1
+H&M: 1
+Gold: 1
+Gas, chemicals: 1
+Fintech: 1
+Financial software: 1
+Finance, telecommunications: 1
+Fertilizers, coal: 1
+Fasteners: 1
+Estee Lauder: 1
+Energy, sports, entertainment: 1
+Electronics: 1
+Discount brokerage: 1
+Dell Technologies: 1
+Dallas Cowboys: 1
+Cryptocurrency exchange: 1
+Cryptocurrency: 1
+Chemicals: 1
+Cheese: 1
+Cement, sugar: 1
+Casinos/hotels: 1
+Casinos: 1
+Business software: 1
+Building supplies: 1
+Bloomberg LP: 1
+Biotech, investments: 1
+Beverages, pharmaceuticals: 1
+Beverage, Real Estate: 1
+Berkshire Hathaway: 1
+Batteries, automobiles: 1
+Batteries: 1
+Banks, real estate: 1
+BMW, pharmaceuticals: 1
+BMW: 1
+Automobiles, batteries: 1
+Apple, Disney: 1
+Aldi, Trader Joe's: 1
+Airbnb: 1
